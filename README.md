@@ -38,7 +38,7 @@ risk_score = (
 ## Usage
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/emmaanoghena/grc-cloud-poam.git
 cd grc-cloud-poam
 pip install openpyxl pandas
 python scripts/generate_poam.py
